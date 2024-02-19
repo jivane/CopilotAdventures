@@ -60,7 +60,7 @@ The planets aren't sorted by their distance from the Lumorian Sun so you'll need
     - JavaScript: Create a folder called `lumoria` and add a file named `app.js`.
     - Python: Create a folder called `lumoria` and add a file named `app.py`.
     - C#: Create a folder called `lumoria` and run `dotnet new console`.
-    - C++: Create a folder called `lumoria` 
+    - C++: Create a folder called `lumoria` inside Visual Studio (Console App)
 
 ### GitHub Copilot Tips
 
