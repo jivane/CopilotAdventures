@@ -75,7 +75,7 @@ Your task is to simulate the duel between Rok and Papyra. Each warrior makes a s
     - JavaScript: Create a folder called `stonevale` and add a file named `app.js`.
     - Python: Create a folder called `stonevale` and add a file named `app.py`.
     - C#: Create a folder called `stonevale` and run `dotnet new console`.
-    - C++: Create a folder called `stonevale` and run `dotnet new console`.
+    - C++: Create a folder called `stonevale` inside Visual Studio (Console App)`.
 
 ### GitHub Copilot Tips
 
