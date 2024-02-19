@@ -166,9 +166,72 @@ This solution uses JavaScript and [Node.js](https://nodejs.org). Feel free to us
 
 You've completed your first GitHub Copilot "warmup" adventure! Check out the other adventures located in the [Adventures](../Adventures) folder to see other ways GitHub Copilot can be used.
 
+# C++ GitHub Copilot Workshop
 
+## Constraints:
 
+- While the previous solution uses JavaScript and Node.js, this version focuses on C++.
 
+## Summary of High-Level Tasks:
+
+1. Create a console application for output.
+2. Declare a constant with a number sequence.
+3. Calculate the common difference between consecutive numbers.
+4. Use the pattern to predict the next number in the sequence.
+
+## GitHub Copilot Steps in C++
+
+1. **File Creation:** Create `echo_chamber.cpp` in your preferred directory.
+
+2. **Sequence Declaration:**
+    ```cpp
+    #include <vector>
+    std::vector<int> echoes = {3, 6, 9, 12};
+    ```
+
+3. **Function Skeleton:**
+    Start typing the function to predict the next number.
+    ```cpp
+    int predictNext(const std::vector<int>& echoes);
+    ```
+
+4. **Implement the Function:**
+    Fill in the logic to predict the next number.
+    ```cpp
+    int predictNext(const std::vector<int>& echoes) {
+        int difference = echoes[1] - echoes[0];
+        return echoes.back() + difference;
+    }
+    ```
+
+5. **Output the Prediction:**
+    Utilize `std::cout` for displaying the result.
+    ```cpp
+    #include <iostream>
+    std::cout << predictNext(echoes) << std::endl;
+    ```
+
+6. **Documentation:**
+    Manually add comments to document your functions, as C++ IDEs may not offer inline suggestions like VS Code.
+
+7. **Tracking Memories:**
+    If desired, implement memory tracking for the sequence.
+    ```cpp
+    std::vector<int> memories;
+    ```
+
+8. **Compilation and Execution:**
+    Use a C++ compiler like g++ to compile and run your program.
+    ```bash
+    g++ echo_chamber.cpp -o echo_chamber && ./echo_chamber
+    ```
+
+9. **Exploring Memories:**
+    Optionally, display the `memories` vector to track the sequence history.
+
+## Completion
+
+Congratulations! You've adapted the GitHub Copilot "warmup" adventure for C++, showcasing how Copilot can assist with C++ coding tasks.
 
 
 
