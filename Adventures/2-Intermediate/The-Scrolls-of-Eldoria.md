@@ -46,11 +46,13 @@ You, a young sorcerer's apprentice, have been given the task to retrieve and dec
     - [Node.js](https://nodejs.org)
     - [Python](https://www.python.org/downloads/)
     - [.NET](https://dot.net)
+    - [C++](https://learn.microsoft.com/fr-fr/cpp/?view=msvc-170)
+    
 1. Create a folder for your code. 
     - JavaScript: Create a folder called `eldoria` and add a file named `app.js`.
     - Python: Create a folder called `eldoria` and add a file named `app.py`.
     - C#: Create a folder called `eldoria` and run `dotnet new console`.
-
+    - C++: Create a folder called `eldoria` 
 ### GitHub Copilot Tips
 
 <a href="#">
