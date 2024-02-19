@@ -47,10 +47,12 @@ Your task is to create a system that checks all the clocks in the town and synch
     - [Node.js](https://nodejs.org)
     - [Python](https://www.python.org/downloads/)
     - [.NET](https://dot.net)
+    - [C++](https://learn.microsoft.com/fr-fr/cpp/?view=msvc-170)
 1. Create a folder for your code. 
     - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
     - Python: Create a folder called `tempora` and add a file named `app.py`.
     - C#: Create a folder called `tempora` and run `dotnet new console`.
+    - C++: Create a folder called `tempora`
 
 ### GitHub Copilot Tips
 

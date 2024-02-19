@@ -94,10 +94,12 @@ Your task is to simulate a battle in the Gridlock Arena. Each creature will make
     - [Node.js](https://nodejs.org)
     - [Python](https://www.python.org/downloads/)
     - [.NET](https://dot.net)
+    - [C++](https://learn.microsoft.com/fr-fr/cpp/?view=msvc-170)
 1. Create a folder for your code. 
     - JavaScript: Create a folder called `mythos` and add a file named `app.js`.
     - Python: Create a folder called `mythos` and add a file named `app.py`.
     - C#: Create a folder called `mythos` and run `dotnet new console`.
+    - C++: Create a folder called `mythos`
 
 ### GitHub Copilot Tips
 
