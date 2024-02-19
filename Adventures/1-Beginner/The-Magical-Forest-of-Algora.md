@@ -75,7 +75,7 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
     - JavaScript: Create a folder called `algora` and add a file named `app.js`.
     - Python: Create a folder called `algora` and add a file named `app.py`.
     - C#: Create a folder called `algora` and run `dotnet new console`.
-    - C++: Create a folder called `algora` 
+    - C++: Create a folder called `algora` inside Visual Studio (Console App)
 
 ### GitHub Copilot Tips
 
