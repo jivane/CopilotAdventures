@@ -52,7 +52,7 @@ You, a young sorcerer's apprentice, have been given the task to retrieve and dec
     - JavaScript: Create a folder called `eldoria` and add a file named `app.js`.
     - Python: Create a folder called `eldoria` and add a file named `app.py`.
     - C#: Create a folder called `eldoria` and run `dotnet new console`.
-    - C++: Create a folder called `eldoria` 
+    - C++: Create a folder called `eldoria` inside Visual Studio (Console App)
 ### GitHub Copilot Tips
 
 <a href="#">
