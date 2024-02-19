@@ -52,7 +52,7 @@ Your task is to create a system that checks all the clocks in the town and synch
     - JavaScript: Create a folder called `tempora` and add a file named `app.js`.
     - Python: Create a folder called `tempora` and add a file named `app.py`.
     - C#: Create a folder called `tempora` and run `dotnet new console`.
-    - C++: Create a folder called `tempora`
+    - C++: Create a folder called `tempora` inside Visual Studio (Console App)
 
 ### GitHub Copilot Tips
 
