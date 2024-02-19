@@ -1,0 +1,12 @@
+{
+	"name": "copilotaventure",
+	"version-string": "1,0,0,0",
+	"description": "copilotAventure application",
+	"homepage": "",
+	"dependencies": [
+		{
+			"name": "curl",
+			"platform": "windows"
+		}
+	]
+}
